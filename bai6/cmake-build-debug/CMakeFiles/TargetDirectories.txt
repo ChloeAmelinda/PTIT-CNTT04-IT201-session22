@@ -1,0 +1,3 @@
+D:/session22/bai6/cmake-build-debug/CMakeFiles/bai6.dir
+D:/session22/bai6/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/session22/bai6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
